@@ -8,4 +8,4 @@ Wait for it to get merged and included in packing
 Done!
 # Any form of malware is NOT allowed.
 # Why the name?
-erm erm pack = pack i = internet g = greg n = nut im speaking bullshit wish misspelled packing
+wish misspelled packing
