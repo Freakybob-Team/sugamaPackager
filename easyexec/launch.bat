@@ -1,0 +1,3 @@
+@echo off
+echo Launching LigmaBalls...
+py lb.py
