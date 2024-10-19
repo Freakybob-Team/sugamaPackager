@@ -1,4 +1,4 @@
-# packign
+# sugamaPackager
 The official package manager for LigmaBalls
 # How to Submit Packages
 Fork this repository
